@@ -1,0 +1,29 @@
+{
+  "count": 3,
+  "data": [
+    {
+      "sector": "Financials",
+      "subSector": "Investment",
+      "industry": "Investment",
+      "code": "CDIA",
+      "stockName": "PT Chandra Daya Investasi Tbk",
+      "file": "https://www.idx.co.id/Media/fwwb1i5k/lre-cdia-en-sq-260701.pdf",
+    },
+    {
+      "sector": "Financials",
+      "subSector": "Cryptocurrency",
+      "industry": "Cryptocurrency",
+      "code": "COIN",
+      "stockName": "PT CiptaDana Sekuritas Asia",
+      "file": "https://www.idx.co.id/Media/gsncro3q/lre-coin-en-ki-260702.pdf",
+    },
+    {
+      "sector": "Consumer Non-Cyclicals",
+      "subSector": "Processed Foods",
+      "industry": "Processed Foods",
+      "code": "RLCO",
+      "stockName": "PT Abadi Lestari Indonesia Tbk",
+      "file": "https://www.idx.co.id/Media/k4qbodra/lre-rlco-en-if-260622.pdf",
+    }
+  ]
+}
